@@ -79,7 +79,7 @@ Peek ships with **5 built-in themes**:
 
 ### Pre-built Binaries
 
-Download the latest release for your platform from the [Releases](https://github.com/bart/peek/releases) page.
+Download the latest release for your platform from the [Releases](https://github.com/PeekEditor/Peek/releases) page.
 
 | Platform | Format |
 |----------|--------|
@@ -196,7 +196,7 @@ Peek uses a hybrid architecture combining Rust for system-level operations with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/bart/peek.git
+git clone https://github.com/PeekEditor/Peek.git
 cd peek
 
 # Install frontend dependencies
