@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "peek",
+  "productName": "Peek",
   "version": "0.1.0",
   "identifier": "com.bart.peek",
   "build": {
@@ -27,6 +27,10 @@
   "bundle": {
     "active": true,
     "targets": "all",
+    "category": "DeveloperTool",
+    "shortDescription": "A lightweight, native code editor built with Rust and React.",
+    "longDescription": "Peek is a fast, cross-platform file viewer and code editor that launches instantly and stays out of your way. Features include syntax highlighting for 30+ languages, multi-cursor editing, integrated terminal, markdown preview, and 5 built-in themes.",
+    "homepage": "https://github.com/PeekEditor/Peek",
     "icon": [
       "icons/32x32.png",
       "icons/128x128.png",
